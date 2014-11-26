@@ -1,6 +1,6 @@
 # Tumblring
 
-[![Build Status](https://travis-ci.org/dmcclccam/gardening.svg?branch=master)](https://travis-ci.org/dmcclccam/gardening)
+[![Build Status](https://travis-ci.org/dmcclccam/tumblring.svg)](https://travis-ci.org/dmcclccam/tumblring)
 
 This is a command-line module to let you know if you (or someone else) rebloged today or yesterday.
 
