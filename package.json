@@ -1,28 +1,26 @@
 {
-  "name": "gardening",
-  "version": "1.4.1",
-  "description": "CLI module to check if you made a public contribution on GitHub today",
+  "name": "tumblring",
+  "version": "0.0.1",
+  "description": "CLI module to check if you /rebloged/ on Tumblr today",
   "main": "index.js",
   "bin": {
-    "garden": "index.js"
+    "tumblr": "index.js"
   },
   "scripts": {
     "test": "node test/test.js"
   },
-  "author": "Jessica Lord",
+  "author": "Danilo Castro",
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlord/gardening.git"
+    "url": "https://github.com/dmcclccam/tumblring.git"
   },
   "bugs": {
-    "url": "https://github.com/jlord/gardening/issues"
+    "url": "https://github.com/dmcclccam/tumblring/issues"
   },
   "keywords": [
-    "contibution",
-    "github",
-    "open source",
-    "graph"
+    "reblog",
+    "tumblr"
   ],
   "dependencies": {
     "cheerio": "~0.17.0",
